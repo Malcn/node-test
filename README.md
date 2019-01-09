@@ -3,7 +3,7 @@ nodejs test demos
 
 平时写的一些nodejs的小demo，不定时更新：
 
-## 服务器已停，若要预览效果请下载到本地尝试
+## 服务器已停，若要预览效果请下载到本地尝试h
 
 ```
 1. npm install
